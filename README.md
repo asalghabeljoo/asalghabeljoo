@@ -6,6 +6,6 @@
 - 🎯 Ich möchte ein versierter Informatikerin und Frontend-Entwicklerin werden.
 - 🎓 Zertifikate:
   - [Google UX Design](https://coursera.org/share/37e9066b015f22bd47e3cfd83269d389)
-  - [Build a Website with HTML, CSS, and GitHub Pages](https://www.codecademy.com/learn/paths/learn-how-to-build-websites) (🚧 wird bald fertig)
+  - [Build a Website with HTML, CSS, and GitHub Pages](https://www.codecademy.com/profiles/py3568618969/certificates/5cadfefe5f1de806e9704577)
   - [Learn React: Introduction](https://www.codecademy.com/learn/learn-react-introduction) (🚧 wird bald fertig)
   - [Create a Front-End App with React](https://www.codecademy.com/learn/paths/build-web-apps-with-react) (🚧 wird bald fertig)
