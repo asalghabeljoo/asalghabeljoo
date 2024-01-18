@@ -7,5 +7,5 @@
 - 🎓 Zertifikate:
   - [Google UX Design](https://coursera.org/share/37e9066b015f22bd47e3cfd83269d389)
   - [Build a Website with HTML, CSS, and GitHub Pages](https://www.codecademy.com/profiles/py3568618969/certificates/5cadfefe5f1de806e9704577)
-  - [Learn React: Introduction](https://www.codecademy.com/learn/learn-react-introduction) (🚧 wird bald fertig)
+  - [Learn React: Introduction](https://www.codecademy.com/profiles/py3568618969/certificates/1bf3e70ae92b43c2a3add66cbfaec661)
   - [Create a Front-End App with React](https://www.codecademy.com/learn/paths/build-web-apps-with-react) (🚧 wird bald fertig)
