@@ -9,3 +9,4 @@
   - [Build a Website with HTML, CSS, and GitHub Pages](https://www.codecademy.com/profiles/py3568618969/certificates/5cadfefe5f1de806e9704577)
   - [Learn React: Introduction](https://www.codecademy.com/profiles/py3568618969/certificates/1bf3e70ae92b43c2a3add66cbfaec661)
   - [Create a Front-End App with React](https://www.codecademy.com/learn/paths/build-web-apps-with-react) (🚧 wird bald fertig)
+  - [Learn JavaScript](https://www.codecademy.com/profiles/py3568618969/certificates/705dcb15de0da4dd9d9fc4f3274b430e)
